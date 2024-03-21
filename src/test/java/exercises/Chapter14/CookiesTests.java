@@ -1,4 +1,4 @@
-package exercises;
+package exercises.Chapter14;
 
 import base.BaseTests;
 import org.openqa.selenium.Cookie;

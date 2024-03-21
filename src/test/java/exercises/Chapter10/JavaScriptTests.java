@@ -1,4 +1,4 @@
-package exercises;
+package exercises.Chapter10;
 
 import base.BaseTests;
 import org.testng.annotations.Test;
